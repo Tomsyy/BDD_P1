@@ -1,2 +1,2 @@
 # BDD_P1
-Base de données
+Ce repository propose de visualiser mes projets de l'année 2018/2019 en cours de SQL de l'école Télécom Paristech
